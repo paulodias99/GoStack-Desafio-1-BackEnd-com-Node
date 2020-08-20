@@ -10,4 +10,4 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 * Yarn
 
 ## Execução 🏃
-> Porta: 3333 com caminho "/repositories"
+> yarn start
